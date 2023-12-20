@@ -856,7 +856,20 @@ main {
 }
 
 
-
+.skills1 {
+  color: var(--vegas-gold);
+  margin-bottom: 5px;
+}
+.skills2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: var(--vegas-gold);
+}
+.skills3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: var(--vegas-gold);
+}
 
 
 
